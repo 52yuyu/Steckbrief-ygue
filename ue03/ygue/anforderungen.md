@@ -1,19 +1,15 @@
-# Anforderungen — Terminplaner für die THM
+# Anforderungen – Terminplaner für die THM
 
-<!-- Aufgabe 3 des Übungsblatts, ohne Hilfsmittel. Je Zeile eine
-     Anforderung in einem Satz, dazu der Stakeholder, von dem sie stammt,
-     und die Art: FA, QA oder RB. Mindestens acht Anforderungen, davon
-     mindestens zwei je Art; die Nummern laufen A01, A02 … Löschen Sie die
-     Kommentare, sobald Sie fertig sind. -->
+## Anforderungen
 
 | Nr. | Anforderung | Stakeholder | Art |
-|---|---|---|---|
-| A01 | … | … | … |
+| :--- | :--- | :--- | :--- |
+| **A01** | Studierende können freie Termine bei Dozenten einsehen und direkt buchen. | Studierende | FA |
+| **A02** | Dozenten können eigene Sprechzeiten anlegen, bearbeiten und absagen. | Dozenten | FA |
+| **A03** | Bei erfolgreicher Buchung wird automatisch eine Bestätigungs-E-Mail versendet. | Studierende | FA |
+| **A04** | Die Seite muss auf Smartphones übersichtlich dargestellt werden und flüssig bedienbar sein. | Studierende | QA |
+| **A05** | Der Login darf ausschließlich über den offiziellen THM-Benutzeraccount (SSO) laufen. | IT-Team | RB |
+| **A06** | Personenbezogene Daten müssen verschlüsselt und DSGVO-konform gespeichert werden. | Datenschutzbeauftragte | RB |
+| **A07** | Das System muss auch bei hoher Last in der Prüfungsphase schnell reagieren. | IT-Team | QA |
+| **A08** | Gebuchte Termine können bis spätestens 24 Stunden vorher storniert werden. | Dozenten | FA |
 
-## Eine Anforderung, die niemand ausgesprochen hat
-
-<!-- Nummer der Anforderung aus der Tabelle, welche im Gespräch niemand
-     ausgesprochen hat, obwohl sie gilt, und in ein bis zwei Sätzen, warum
-     sie niemand genannt hat. -->
-
-…
