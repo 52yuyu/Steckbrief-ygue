@@ -7,8 +7,9 @@ Aufgaben stehen im
 
 ## Was Sie einreichen
 
-Einzureichen ist ein Verzeichnis `ue02/<kürzel>/` mit drei Dateien, und
-zwar als Pull Request vom Branch `ue02-<kürzel>`:
+Einzureichen ist ein Verzeichnis `ue02/<benutzername>/` mit drei Dateien,
+und zwar als Pull Request vom Branch `ue02-<benutzername>`. Gemeint ist Ihr
+GitHub-Benutzername in Kleinbuchstaben.
 
 | Datei | Aufgabe | Woher |
 |---|---|---|
@@ -17,7 +18,7 @@ zwar als Pull Request vom Branch `ue02-<kürzel>`:
 | `spezifikation.md` | 3 — Gliederung einer Spezifikation | aus `_vorlage/` |
 | `rollen.md` | 5 — Zugabe, freiwillig: Rollen besetzen | aus `_zugabe/` |
 
-1. Kopieren Sie das Verzeichnis `_vorlage` nach `<kürzel>`. Die Vorlage
+1. Kopieren Sie das Verzeichnis `_vorlage` nach `<benutzername>`. Die Vorlage
    selbst bleibt unverändert.
 2. Bearbeiten Sie die Dateien im Lauf der Übung und legen Sie
    `phasenplan.md` hinzu.
@@ -27,9 +28,9 @@ Personen. Im Kopf von `spezifikation.md` und `rollen.md` stehen die
 GitHub-Benutzernamen aller Personen, die mitgearbeitet haben.
 
 > [!IMPORTANT]
-> Für diese Übung gibt es 1 Bonuspunkt. Diesen erhält nur, wer vor Beginn
-> der Übung 3 selbst einen Pull Request mit Inhalten gestellt hat. Daher
-> reicht jedes Mitglied einer Gruppe selbst ein: Es legt die gemeinsamen
+> Für diese Übung gibt es 1 Bonuspunkt. Diesen erhält nur, wer bis zur
+> Frist im Moodle-Kurs selbst einen Pull Request mit Inhalten gestellt hat.
+> Daher reicht jedes Mitglied einer Gruppe selbst ein: Es legt die gemeinsamen
 > Dateien in seinem eigenen Verzeichnis ab, überträgt sie in seinen eigenen
 > Fork und stellt einen eigenen Pull Request. Die Benutzernamen im Kopf der
 > Dateien ergänzen dies lediglich.
